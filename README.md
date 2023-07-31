@@ -1,4 +1,4 @@
-# bsc-relayer-config
+OKI# bsc-relayer-config
 
 This repository provides cross chain configuration, such as channels, contract abi and contract address. As development progresses，the cross chain protocol configuration will be changed dynamically. If a bsc-relayer configs its protocol config type as `remote`, then it will regularly sync the cross chain protocol from here.
 
